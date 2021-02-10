@@ -1,0 +1,24 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.news_item {
+    margin-top: 15px;
+    
+}
+#book1_titletext {
+    cursor: pointer;
+}
